@@ -4,3 +4,4 @@ numpy==1.23
 pandas==1.4.0
 shap==0.47.1 
 streamlit==1.44.1
+catboost==1.2.1 
